@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "dlaitest_20230714"
+  annotations:
+    "humanitec.com/orgId": "htc-demo-14"
+    "humanitec.com/appId": "dlaitest_20230714"
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
